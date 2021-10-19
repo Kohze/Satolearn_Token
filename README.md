@@ -8,7 +8,7 @@ Creating a STAS Token (l1):
  
  - create a new account with /createUser. 
  - Create a wallet with /createWallet and title "default" 
- - go to /issue and enter your token details
+ - go to /issue and enter your token details (add your own details)
 
 ```
 {
