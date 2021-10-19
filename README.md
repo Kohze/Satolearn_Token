@@ -10,6 +10,7 @@ Creating a STAS Token (l1):
  - Create a wallet with /createWallet and title "default" 
  - go to /issue and enter your token details
 
+```
 {
    "name":"Ed shreen Poster",
    "tokenId":"990f0fe06e0c53689154f96b79fda9a230c462e1",
@@ -57,6 +58,8 @@ Creating a STAS Token (l1):
       }
    }
 }
+```
+
 
 Creating a Run Token (l2):
 
