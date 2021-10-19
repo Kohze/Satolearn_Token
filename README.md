@@ -4,6 +4,8 @@ Creating a STAS Token (l1):
  
  enter https://api.relysia.com/docs/static/index.html
  
+ - set the server to api.relysia.com
+ 
  You can trigger the token creation either from the swagger interface directly, or via SDK on https://docs.relysia.com
  
  - create a new account with /createUser. 
